@@ -26,7 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E??style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 #### Currently Learning:
