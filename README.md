@@ -45,7 +45,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Sandrex233&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="prince roy" />
     </a>
     <a href="https://github.com/Sandrex233/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://sandrex233-sandrex233.vercel.app//api?username=Sandrex233&count_private=true&theme=midnight-purple" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app//api?username=Sandrex233&count_private=true&theme=midnight-purple" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
