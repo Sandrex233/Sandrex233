@@ -8,7 +8,7 @@
 <br /> 
 
 
-![Profile views](https://gpvc.arturio.dev/Sandrex233)  
+
 
   #### 📩 Reach out to me on:
   
